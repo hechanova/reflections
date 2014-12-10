@@ -10,4 +10,9 @@ The staging area is a temporary workspace where I can add, edit and review
 files. It's valuable to have an interim space where I can test things and
 either commit them or reset.
 
+3) How can you use the staging area to make sure you have one commit per 
+logical change?
 
+I can use the staging area to review changes I've made and commit files 
+individually or in batches, depending upon the extent of changes I've made,
+as I see fit.
