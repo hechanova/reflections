@@ -1,0 +1,13 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository creates a new repository. I need to create a new
+repository in order to start a brand new project.
+
+2) How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+The staging area is a temporary workspace where I can add, edit and review
+files. It's valuable to have an interim space where I can test things and
+either commit them or reset.
+
+
