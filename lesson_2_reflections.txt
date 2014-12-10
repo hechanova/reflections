@@ -26,5 +26,23 @@ operational. Branches allow me to separate simultaneous versions of code for
 experimentation.
 
 5) How do the diagrams help you visualize the branch structure?
+
 The diagrams make the parent-child relationships more explicit, and they help
 point out which branches are unreachable.
+
+6) What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+When two branches are merged, Git sorts through changes that have been made to
+each branch and figures out which code should be kept. We represent it as two
+separate branches that join at the head to represent the two branches' 
+distinct lineages. This allows us to see commits that were made concurrently.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+Automatic merging is faster but less detailed. Manual merging is slower, but 
+it allows us to choose which version of conflicting code makes the most sense
+to move forward with.
+
+
