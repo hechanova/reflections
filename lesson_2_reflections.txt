@@ -24,3 +24,7 @@ Branches are helpful when I want to make wider-reaching changes to the code
 and I want to make sure I have another version of the code untouched and still
 operational. Branches allow me to separate simultaneous versions of code for
 experimentation.
+
+5) How do the diagrams help you visualize the branch structure?
+The diagrams make the parent-child relationships more explicit, and they help
+point out which branches are unreachable.
