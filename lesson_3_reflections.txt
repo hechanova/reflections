@@ -18,4 +18,11 @@ have permission (or want) to make changes directly to their repository. I'd
 clone a repository if I want to make changes to a shared repository. A branch
 is a bifurcated version of a repository.
 
+4) What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+Storing the last known state of the remote locally allows quick access to edit
+and review previous commits, and you can build off of the most up-to-date 
+version of files as possible.
+
 
