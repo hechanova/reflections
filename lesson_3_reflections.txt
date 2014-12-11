@@ -25,4 +25,13 @@ Storing the last known state of the remote locally allows quick access to edit
 and review previous commits, and you can build off of the most up-to-date 
 version of files as possible.
 
+5) How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+
+Without Git or GitHub, I might store files on Dropbox or maybe I'd try a
+different version control system like SVN. I'm sure SVN has certain benefits
+and drawbacks I'm not currently aware of since most popular systems have trade-
+offs. Dropbox would bypass needing to use commands to update things, but my
+collaborators and I would lose control over when our files are updated.
+
 
