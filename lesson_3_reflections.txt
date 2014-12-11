@@ -9,3 +9,13 @@ automatically stay up-to-date with your remote repository?
 
 Pulling changes manually allows you to review changes that have been made to
 the repository and lowers the risk of conflict.
+
+3) Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+
+I'd use a fork to work on someone else's repository via GitHub when I don't
+have permission (or want) to make changes directly to their repository. I'd 
+clone a repository if I want to make changes to a shared repository. A branch
+is a bifurcated version of a repository.
+
+
